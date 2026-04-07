@@ -43,7 +43,7 @@ Me especializo en crear soluciones tecnológicas eficientes, escalables y bien d
 
 #### 🌐 **Administración de Redes**  
 **Administradora Principal de Redes** | 2023 – 2024  
-- Gestión y mantenimiento de la infraestructura de red en una sucursal de la UNE.
+- Gestión y mantenimiento de la infraestructura de red.
 
 ---
 
