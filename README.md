@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Azuredvl
 
-### 🧑‍💻 **Desarrolladora de Software**  
-Con más de **3 años de experiencia** en el desarrollo de aplicaciones web, escritorio, móviles y administración de redes.  
-Me especializo en crear soluciones tecnológicas eficientes, escalables y bien documentadas.
+### 🧑‍💻 **Resumen**  
+
+Desarrolladora Full-Stack con 3+ años de experiencia en la creación de aplicaciones web, móviles y de escritorio, complementada con sólidos conocimientos en administración de redes y sistemas. Apasionada por escribir código limpio, bien documentado y escalable. Busco aportar soluciones tecnológicas integrales que optimicen procesos y mejoren la experiencia del usuario.
 
 ---
 
@@ -18,18 +18,17 @@ Me especializo en crear soluciones tecnológicas eficientes, escalables y bien d
 
 | Área | Tecnologías |
 |------|------------|
-| **Lenguajes** | TypeScript, Angular, Python, C#, HTML, CSS, Kotlin |
+| **Lenguajes** | TypeScript, Angular, Python, C#, C++, Kotlin |
 | **Desarrollo Web** | Frontend & Backend, APIs, Render, Appwrite |
 | **Desarrollo de Escritorio** | Aplicaciones nativas, gestión de inventario y contabilidad |
 | **Desarrollo Móvil** | Kotlin, Jetpack Compose |
 | **Redes y Sistemas** | Administración en Windows y Linux |
-| **Idiomas** | Español (nativo), Inglés |
 
 ---
 
 ### 💼 **Experiencia profesional**
 
-#### 🖥️ **Desarrollo Web**  
+#### 🖥️ **Desarrollo Full-stack**  
 **Desarrolladora** | 2023 – Actualidad  
 - Creación y mantenimiento de aplicaciones web modernas y responsivas.  
 
