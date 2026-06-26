@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Azuredvl
 
-### 🧑‍💻 **Desarrolladora de Software de Cuba**  
+### 🧑‍💻 **Desarrolladora de Software**  
 Con más de **3 años de experiencia** en el desarrollo de aplicaciones web, escritorio, móviles y administración de redes.  
 Me especializo en crear soluciones tecnológicas eficientes, escalables y bien documentadas.
 
